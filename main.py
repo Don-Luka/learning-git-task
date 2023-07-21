@@ -12,3 +12,5 @@ for sklep, produkty in zakupy.items():
 print(f'W sumie kupuję {lba_produktów} produktów')
 
 print("Nie spodziewałem się hiszpańskiej inkwizycji!")
+
+print('Pozdrawiam.Cię.Patryk.')
